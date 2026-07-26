@@ -13,7 +13,6 @@ To ensure patient accessibility across diverse demographics, we built a custom, 
 ### Supported Languages:
 * 🇺🇸 **English** (`en`)
 * 🇪🇸 **Spanish / Español** (`es`)
-* 🇫🇷 **French / Français** (`fr`)
 * 🇮🇳 **Hindi / हिंदी** (`hi`)
 * 🇮🇳 **Telugu / తెలుగు** (`te`)
 
